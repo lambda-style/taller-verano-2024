@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'es-mx'
 title = 'Taller Lean 2024 - Git & GitHub Workshop'
-canonifyURLs = true
 
 [params]
 # color style
